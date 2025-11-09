@@ -1,0 +1,10 @@
+ccxt
+flask
+pandas
+numpy
+scikit-learn
+joblib
+python-dotenv
+requests
+python-binance
+python-telegram-bot==13.15
